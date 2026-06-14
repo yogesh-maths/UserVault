@@ -1,7 +1,8 @@
 # 👤 UserVault
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ead7b946-ecd5-40de-8f36-0a3028298db8" alt="UserVault Banner"/>
+  <img src=<img width="1536" height="1024" alt="UserVault" src="https://github.com/user-attachments/assets/f8aef348-b74f-4cc7-8b2c-cba2ff3f4ad0" />
+ alt="UserVault Banner"/>
 </p>
 
 ## About
