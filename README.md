@@ -5,6 +5,9 @@
 </p>
 
 ## About
+UserVault – Customer Data Management App
+
+Developed a client-facing Android application for managing customer records, including name, mobile number, and address. Implemented offline storage, search functionality, and backup/restore features using Kotlin and Jetpack Compose.
 
 UserVault is a customer data management Android application built using Kotlin and Jetpack Compose. The app allows users to store, search, update, backup, and restore customer information locally on the device.
 
